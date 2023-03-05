@@ -1467,7 +1467,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #d68886;
+  background: #fd5650;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1670,7 +1670,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #d68886;
+  background: #fd5650;
   color: #fff;
   text-decoration: none;
 }
