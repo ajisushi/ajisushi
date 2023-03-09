@@ -1356,12 +1356,6 @@ section {
 /*--------------------------------------------------------------
 # Gallery
 --------------------------------------------------------------*/
-.img {
-  float: left;
-  width:  400px;
-  height: 600px;
-  background-size: cover;
-}
 .gallery .gallery-item {
   overflow: hidden;
   border-right: 3px solid #454035;
