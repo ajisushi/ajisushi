@@ -1,3 +1,4 @@
-This is a web dev project for a restaurant. 
-To be determined when the current website will be discontinued.
-Domain name transfert to be completed by then, before this bootstrap site can go live
+Web dev for Restaurant Aji Sushi using Bootstrap v5
+Deployed via github in collab with Vercel as the hosting service
+All modifications are to be commited to this repository, and goes live in production 
+Clones permitted, no commits to the main branch allowed unless you have permission from owner
