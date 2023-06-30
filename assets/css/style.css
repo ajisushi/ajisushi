@@ -214,6 +214,26 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Header Social Links
+--------------------------------------------------------------*/
+.header-social-links {
+  padding-right: 15px;
+}
+
+.header-social-links a {
+  color: #ffffff;
+  padding-left: 6px;
+  display: inline-block;
+  line-height: 0px;
+  transition: 0.3s;
+  font-size: 16px;
+}
+
+.header-social-links a:hover {
+  color: #cc5363;
+}
+
+/*--------------------------------------------------------------
 # Book a table button Menu
 --------------------------------------------------------------*/
 .book-a-table-btn {
