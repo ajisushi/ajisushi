@@ -131,7 +131,7 @@ h6 {
 /*--------------------------------------------------------------
 # Top Bar
 --------------------------------------------------------------*/
-#topbar {
+/* #topbar {
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -174,7 +174,7 @@ h6 {
   padding-right: 10px;
   color: rgba(255, 255, 255, 0.5);
   content: "/";
-}
+} */
 
 /*--------------------------------------------------------------
 # Header
@@ -184,8 +184,7 @@ h6 {
   border-bottom: 1px solid rgba(12, 11, 9, 0.6);
   transition: all 0.5s;
   z-index: 997;
-  padding: 15px 0;
-  top: 40px;
+  padding: 20px 0;
 }
 
 #header.header-scrolled {
@@ -210,7 +209,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 45px;
 }
 
 /*--------------------------------------------------------------
