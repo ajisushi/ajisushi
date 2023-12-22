@@ -386,7 +386,7 @@ h6 {
 
 @media (max-width: 991px) {
   .mobile-nav-toggle {
-    display: block;
+    display: flex;
   }
 
   .navbar ul {
@@ -399,9 +399,9 @@ h6 {
   overflow: hidden;
   top: 0;
   right: 0;
-  left: 0;
+  left: 70%;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(44, 1, 1);
   transition: 0.3s;
   z-index: 999;
 }
@@ -413,24 +413,19 @@ h6 {
 }
 
 .navbar-mobile ul {
-  display: block;
+  display: table;
   position: absolute;
-  top: 55px;
-  right: 15px;
-  bottom: 15px;
-  left: 15px;
-  padding: 10px 0;
-  border-radius: 6px;
-  background-color: #fff;
+  padding: 10px 10px 10px 10px;
+  background-color: rgb(44, 1, 1);
   overflow-y: auto;
-  transition: 0.3s;
+  transition: 0.4s;
 }
 
 .navbar-mobile a,
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #1a1814;
+  color: #ffffff;
 }
 
 .navbar-mobile a:hover,
